@@ -1,6 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/NeighboringDisastrousCleanerwrasse-max-1mb.gif)
 <h1 align="center">Hi 👋, I'm JiaJun</h1>
-<h3 align="center">Currently studying Diploma In Information Technology in MMU Cyberjaya Malaysia</h3>
+<h3 align="center">Currently studying Diploma In Information Technology in MMU Cyberjaya Malaysia.</h3>
+<h4 align="center">An Otaku.</h4>
 <img align="right" alt="rin" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiajun0207&label=Profile%20views&color=0e75b6&style=flat" alt="jiajun0207" /> </p>
