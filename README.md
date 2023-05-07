@@ -26,11 +26,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiajun0207&show_icons=true&locale=en&layout=compact" alt="jiajun0207" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiajun0207&show_icons=true&locale=en" alt="jiajun0207" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiajun0207&" alt="jiajun0207" /></p>
+![](https://github-readme-stats.vercel.app/api?username=JiaJun0207&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JiaJun0207&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaJun0207&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
