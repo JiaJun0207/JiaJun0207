@@ -5,15 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiajun0207&label=Profile%20views&color=0e75b6&style=flat" alt="jiajun0207" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kakkun0207" target="blank"><img src="https://img.shields.io/twitter/follow/kakkun0207?logo=twitter&style=for-the-badge" alt="kakkun0207" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me **chanjiajun321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kakkun0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kakkun0207" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jia-jun-chan-154325274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jia-jun-chan-154325274" height="30" width="40" /></a>
 <a href="https://fb.com/jiajunchan0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jiajunchan0207" height="30" width="40" /></a>
 <a href="https://instagram.com/jia.jun.0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jia.jun.0207" height="30" width="40" /></a>
