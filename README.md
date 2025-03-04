@@ -1,7 +1,6 @@
 ![MasterHead](https://thumbs.gfycat.com/NeighboringDisastrousCleanerwrasse-max-1mb.gif)
 </br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=18F7F5&center=true&vCenter=true&width=435&lines=HiHi%2C+My+Name+is+Jia+Jun.+%F0%9F%91%8B;An+Otaku.+%F0%9F%8D%99;I+like+Anime.+%F0%9F%8C%B8;Information+Technology+Student.+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Study+in+MMU+Cyberjaya+Malaysia.+%F0%9F%8E%93" alt="Typing SVG" /></a>
 </div>
 
 <img align="right" alt="rin" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
